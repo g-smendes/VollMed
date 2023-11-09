@@ -1,21 +1,19 @@
-
-![React com Typescript: Sistema de cadastro e autenticação](https://imgur.com/AiM33zX.png)
-
-![Alt text](image.png)
-
-![Alt text](image-1.png)
-
-![Alt text](image-2.png)
-
-![Alt text](image-3.png)
-
-![Alt text](image-4.png)
-
-![Alt text](image-5.png)
-
 # React com Typescript: Sistema de cadastro e autenticação
 
 Este projeto faz parte do Front-end e tem como objetivo construção de um fluxo de cadastro e autenticação em React com Typescript, utilizando elementos das bibliotecas MUI, MobX e React-Router-Dom. 
+
+![image](https://github.com/g-smendes/VollMed/assets/97321099/d2577cdf-1fde-4942-815e-43e7560b8865)
+
+![image-1](https://github.com/g-smendes/VollMed/assets/97321099/6a4f6309-0141-42cc-9433-af642eb9a8ee)
+
+![image-2](https://github.com/g-smendes/VollMed/assets/97321099/75d7d900-b91a-489a-8b74-ac75e9de9afc)
+
+![image-3](https://github.com/g-smendes/VollMed/assets/97321099/9efde110-b4dd-4b9f-9417-901a7af704d5)
+
+![image-4](https://github.com/g-smendes/VollMed/assets/97321099/764dc6ae-f12e-49f9-89ff-8b1f3ef11ccf)
+
+![image-5](https://github.com/g-smendes/VollMed/assets/97321099/7e353ee1-67c6-49d2-b40c-ce1cde5a8a7d)
+
 
 ## Funcionalidades do projeto
 
